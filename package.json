@@ -1,0 +1,21 @@
+{
+    "name": "vspearc",
+    "displayName": "vspearc",
+    "description": "Color Theme inspired by Jonathan Blow",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vspearc",
+                "uiTheme": "hc-black",
+                "path": "./themes/vspearc-color-theme.json"
+            }
+        ]
+    }
+}
