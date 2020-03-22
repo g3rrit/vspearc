@@ -382,7 +382,8 @@
 			"scope": [
 				"keyword.control",
 				"keyword.operator.logical",
-				"keyword.operator.new"
+				"keyword.operator.new",
+				"keyword.other"
 			],
 			"settings": {
 				"foreground": "#CCCCCC"
@@ -404,15 +405,7 @@
 				"meta.return-type"
 			],
 			"settings": {
-				"foreground": "#9DE3C0"
-			}
-		},
-		{
-			"scope": [
-				"string"
-			],
-			"settings": {
-				"foreground": "#2CA198"
+				"foreground": "#9DE3C0",
 			}
 		},
 		{
@@ -447,7 +440,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#FFD5A6"
+				"foreground": "#ffe386"
 			}
 		},
 		{
